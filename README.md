@@ -1,4 +1,4 @@
-This program shows basic hashing and encryption using only built-in Python tools. It lets the user enter a message, then:
+This program shows basic hashing and encryption using only built in Python tools. It lets the user enter a message, then:
 1. Hashes the message using SHA-256
 2. Encrypts and decrypts the message using a simple symmetric XOR key
 3. Checks integrity by comparing SHA-256 hashes
